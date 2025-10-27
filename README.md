@@ -7,7 +7,7 @@ Public demo of a Pololu 3Pi+ (ATmega32U4) autonomous robot : closed-loop motion 
 ## Demo
 <video src="assets/Pololu-3Pi-motor-car-demonstration.mp4" controls loop muted playsinline style="max-width: 100%;"></video>
 ![demo](assets/Pololu-3Pi-motor-car-demonstration.mp4)
-https://youtube.com/shorts/7LqzaG9Dz_I
+[https://youtube.com/shorts/7LqzaG9Dz_I](https://youtube.com/shorts/I9G6qY-dI6I)
 
 ## Modules 模块
 - **Hardware**：Pololu 3Pi+ 32U4（编码器Encoder、5×线传感器** IR surface reflectance sensors**、LIS3MDL 磁力计magnetometer）
